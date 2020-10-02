@@ -1,0 +1,11 @@
+{
+"companyName": "Karim Dahrouge",
+"productName": "RollerMadness",
+"dataUrl": "RollerMadness.data.unityweb",
+"asmCodeUrl": "RollerMadness.asm.code.unityweb",
+"asmMemoryUrl": "RollerMadness.asm.memory.unityweb",
+"asmFrameworkUrl": "RollerMadness.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
